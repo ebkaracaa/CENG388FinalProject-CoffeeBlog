@@ -22,7 +22,7 @@
 
 
 
-    </div>
+
 
     <div class="footer-bottom">
       &copy; coffeblog.com | Designed by Emre Baran Karaca
