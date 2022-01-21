@@ -1,4 +1,4 @@
 <?php
 
-define("ROOT_PATH", realpath(dirname(__FILE__)));
+define("ROOT_PATH", "https://mycoffeeblog.herokuapp.com/");
 define("BASE_URL", "https://mycoffeeblog.herokuapp.com/");
