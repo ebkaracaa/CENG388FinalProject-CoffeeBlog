@@ -7,7 +7,7 @@
           <h1  class="logo-text"><span>Coffee</span> Blog</h1>
        
         <p>
-          Coffe Blog is a fictional blog conceived for a school project.
+          Coffe Blog is a fictional blog conceived for a school project by Emre Baran Karaca.
         </p>
         <div class="contact">
           
