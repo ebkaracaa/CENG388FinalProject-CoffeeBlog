@@ -102,11 +102,11 @@ header .logo {
   float: left;
   height: inherit;
   margin-left: 1em;
-  margin: 15px;
+  margin: 20px;
 }
 
 header .logo-text {
-  margin: 15px;
+  margin: 20px;
   font-family: "Kerning", serif;
 }
 
